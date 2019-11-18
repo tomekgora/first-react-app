@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Something something or other
+          Welcome to Codaisseur
         </a>
       </header>
       <p>Where will this go</p>
